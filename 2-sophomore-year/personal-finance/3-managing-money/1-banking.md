@@ -13,7 +13,6 @@
 * nationwide banks have branches in various cities and towns
 * community banks serve only local area customers
 
-
 ### credit union
 * provides services similar to retail bank
 * owned by members, account holders
@@ -29,7 +28,6 @@
 * savings and loans = thrifts
 * specializes in helping homeowners
 * provide loans for buying and building homes
-
 
 ### checking accounts
 * most common types of bank accounts
@@ -61,11 +59,13 @@
 * what do i want from bank account
 * where can i get best rate of interest
 * what fees does each bank charge
-* requirements to open account
+
+### requirements to open account
 * identification
 * proof of address
 * money to start account
 * guardian to co-sign or share account
+* social security number
 
 ### bank statement
 * contains the recent history of an account
