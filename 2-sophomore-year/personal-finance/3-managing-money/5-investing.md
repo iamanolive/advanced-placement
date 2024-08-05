@@ -99,3 +99,13 @@
     5. small businesses (any money earned has to be put back into the business to keep it running)
 * money needed immediately => liquid investment
 * money invested for long term => less liquid investment
+
+## information about risks and returns
+* risks (advertized risks) : what the borrower claims about the potential for you to lose money
+* rates of return : what the borrower claims about the money you might make
+* evidence to evaluate whether these claims are reasonable
+### signs of investment fraud
+* use of guarantees : borrower guarantees return
+* lack of evidence : borrower provides no evidence to back up claims
+* unreasonably high returns : borrower promises high profits
+* unreasonably low risks : borrower refuses to recognize risks
