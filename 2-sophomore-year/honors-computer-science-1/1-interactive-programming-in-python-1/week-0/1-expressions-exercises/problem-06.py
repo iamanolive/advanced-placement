@@ -3,7 +3,6 @@
 # statement that calculates and prints the area in square inches of 
 # a circle whose radius is 8 inches. Assume that the constant π = 3.14.
 
-r = 8
+radius = 8
 PI = 3.14
-area = PI * r * r
-print(area)
+print(PI * (radius ** 2))

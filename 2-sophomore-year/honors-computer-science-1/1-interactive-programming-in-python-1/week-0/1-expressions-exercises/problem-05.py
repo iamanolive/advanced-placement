@@ -3,8 +3,6 @@
 # circumference in inches of a circle whose radius is 8 inches. Assume 
 # that the constant π = 3.14.
 
-
-r = 8
+radius = 8
 PI = 3.14
-circumference = 2 * PI * r
-print(circumference)
+print(2 * PI * radius)

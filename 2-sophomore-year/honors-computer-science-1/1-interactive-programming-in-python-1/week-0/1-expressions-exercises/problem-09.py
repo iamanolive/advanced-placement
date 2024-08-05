@@ -3,8 +3,4 @@
 # prints the result (Hint: Use the function str to convert the number
 # into a string.)
 
-name = "Joe Warren"
-age = 52
-
-string = name + " is " + str(age) + " years old."
-print(string)
+print("Joe Warren" + " is " + str(52) + " years old.")

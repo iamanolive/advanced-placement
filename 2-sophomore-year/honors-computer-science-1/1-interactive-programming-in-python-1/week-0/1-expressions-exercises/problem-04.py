@@ -7,5 +7,4 @@
 
 l = 4
 w = 7
-area = l * w
-print(area)
+print(l * w)

@@ -7,6 +7,4 @@
 p = 1000 # dollars
 r = 7 # interest percent
 y = 10 # years
-
-future_value = p * (1 + (0.01 * r)) ** y
-print(future_value)
+print(p * (1 + (0.01 * r)) ** y)
