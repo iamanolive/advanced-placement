@@ -109,3 +109,6 @@
 * lack of evidence : borrower provides no evidence to back up claims
 * unreasonably high returns : borrower promises high profits
 * unreasonably low risks : borrower refuses to recognize risks
+### questions to ask
+* high rates of return : why aren't you keeping that opportunity to yourself
+* little or no risk : what evidence do you have of that, why is your rate of return so high
