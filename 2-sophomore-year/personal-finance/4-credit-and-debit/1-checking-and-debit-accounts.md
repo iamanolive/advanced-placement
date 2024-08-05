@@ -12,7 +12,7 @@
     * checks or cash using deposit slip
     * checks or cash using ATM
     * online transfer of funds from one account to another
-* electronic funds transfer = money moved electronically from one bank to another (direct deposit)
+    * electronic funds transfer = money moved electronically from one bank to another (direct deposit)
 
 ### identifying debits
 * withdrawal or moving money from account
